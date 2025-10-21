@@ -11,11 +11,11 @@ The validation of a morphogen is fundamentally governed by two core hypotheses:
 
 The DAU Model is strictly derived from first-principle physics and higher mathematics, providing a necessary, minimal coarse-graining of the dynamics. It describes the key processes of **Diffusion ($D$)**, **Adsorption/Binding ($K$)**, and **Cellular Uptake/Degradation ($k_{\text{uptake}}$)** of the morphogen within an embryonic tissue, enabling efficient quantification and prediction of its kinetic parameters from experimental data.
 
-## ⚙️ Model Schematic (model.png)
+## ⚙️ Model Schematic (model.jpg)
 
 To provide an intuitive understanding of the model's components and processes, the DAU model schematic is included below.
 
-![DAU Model Schematic](assets/model.jpg)
+![DAU Model Schematic](model.jpg)
 <p align="center">Figure 1. Schematic of the DAU Model. The morphogen (C) undergoes Diffusion (D) in the extracellular space, non-endocytic Adsorption/Binding (K), and cellular Uptake/Degradation (k_uptake).</p>
 
 
